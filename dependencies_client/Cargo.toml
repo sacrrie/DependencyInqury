@@ -1,0 +1,8 @@
+[package]
+name = "dependencies_client"
+version = "0.1.0"
+authors = ["sacrrie <sacrrie.yan@gmail.com>"]
+
+[dependencies]
+
+udp_messenging={path="/home/ubuntu/workspace/Rust/udp_messenging",version = "0.1.0"}

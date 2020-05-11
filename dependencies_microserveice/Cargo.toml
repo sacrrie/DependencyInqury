@@ -1,0 +1,8 @@
+[package]
+name = "dependencies_micro_service"
+version = "0.1.0"
+authors = ["sacrrie <sacrrie.yan@gmail.com>"]
+
+[dependencies]
+udp_messenging={path="/home/ubuntu/workspace/Rust/udp_messenging",version = "0.1.0"}
+postgres = "0.15.1"

@@ -1,0 +1,11 @@
+[package]
+name = "dependencies_map"
+version = "0.1.0"
+authors = ["sacrrie <sacrrie.yan@gmail.com>"]
+
+[dependencies]
+reqwest="0.8.1"
+rustc-serialize = "0.3.24"
+serde = "1.0.24"
+base64 = "0.8.0"
+postgres = "0.15.1"
